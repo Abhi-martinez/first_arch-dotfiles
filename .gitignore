@@ -1,0 +1,28 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+*.secret
+
+# Caches
+.cache/
+*.cache
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Personal directories
+Downloads/
+Documents/
+Pictures/
+Videos/
+
+# Python
+__pycache__/
+*.pyc
+

@@ -1,0 +1,9 @@
+brave-bin
+catppuccin-gtk-theme-mocha
+sddm-astronaut-theme
+supergfxctl
+vscodium-bin
+waybar-cava-git
+wlogout
+yay
+yay-debug
