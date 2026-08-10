@@ -11,6 +11,7 @@ This repository contains the configuration and setup from my **first serious jou
 I started with very little Linux experience and spent the last couple of months learning by actually using, breaking, debugging, rebuilding, and customizing my system.
 
 This isn't meant to be a perfect "rice".
+for the demonstration check Workflow.
 
 It's a snapshot of **what I learned and built along the way.**
 
